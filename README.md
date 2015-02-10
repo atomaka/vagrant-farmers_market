@@ -1,9 +1,12 @@
+# vagrant farmers\_market
+
+## Description
+
+Sample Vagrant project for use with the
+[farmers\_market](https://github.com/chrisvfritz/farmers_markets) application.
+
+## Usage
+
 ```
-git clone git@git.atomaka.com:talks/vagrant-farmers\_market.git
-cd vagrant-farmers_market
-git clone https://github.com/atomaka/farmers_markets.git code
-vagrant up
-vagrant ssh
-cd app
-rackup -o 0.0.0.0
+bash <(curl https://github.com/atomaka/vagrant-farmers_market/blog/master/bootstrap.sh)
 ```
