@@ -10,3 +10,8 @@ Sample Vagrant project for use with the
 ```
 bash <(curl https://github.com/atomaka/vagrant-farmers_market/blog/master/bootstrap.sh)
 ```
+
+or
+
+follow the [bootstrap
+file](https://github.com/atomaka/vagrant-farmers_market/blob/master/bootstrap.sh).
